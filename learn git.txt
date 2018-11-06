@@ -1,0 +1,3 @@
+#1
+github for desktop其实就是一个代码上传器，也可以当作clone器，不过不能直接在上面编辑，但在网站上可以。
+需要用IDE进行编辑后，pycharm可以自动同步到git
